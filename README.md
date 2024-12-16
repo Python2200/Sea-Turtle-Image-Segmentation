@@ -1,7 +1,7 @@
 
 # Sea Turtle Image Segmentation Project Description
 
-This is a document for understanding the project structure directory and how to run
+This is a document for understanding the project structure directory and how to run. The detail about this project is shown in: https://drive.google.com/file/d/1uP_XtqNk2Ip5lUMlCB5W4eFzXVqY_Jcd/view?usp=drive_link
 
 
 ## Authors
